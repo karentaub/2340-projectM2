@@ -9,7 +9,7 @@ import java.util.List;
  *  returns their name and a
  *  modified string 
  *
- * @author Bob
+ * @author Alen Polakof
  * @version 1.1
  */
 public class Person2 {
